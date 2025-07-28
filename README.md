@@ -25,7 +25,7 @@ Um projeto simples, porém funcional, que calcula o IMC com base nos dados inser
 - Criar uma ferramenta útil para verificação básica de saúde  
 - Aprender a estruturar um projeto simples do zero  
 
-### **Observações extras (se quiser incluir)**  
+### **Observações extras**  
 - *"Os resultados são baseados em padrões da OMS, mas não substituem uma avaliação médica profissional."*  
 - *"Projeto feito para fins educativos."*  
 
