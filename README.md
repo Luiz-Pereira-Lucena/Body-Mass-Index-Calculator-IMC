@@ -4,15 +4,15 @@
 Um projeto simples, porém funcional, que calcula o IMC com base nos dados inseridos pelo usuário (nome, altura e peso) e exibe o resultado junto com a classificação correspondente (abaixo do peso, peso ideal, obesidade, etc.).  
 
 #### **Tecnologias utilizadas**  
-- **HTML** ? Estrutura do formulário  
-- **CSS** ? Estilização da página (opcional, se aplicável)  
-- **JavaScript** ? Lógica de cálculo e exibição do resultado  
+- **HTML**  Estrutura do formulário  
+- **CSS**  Estilização da página (opcional, se aplicável)  
+- **JavaScript**  Lógica de cálculo e exibição do resultado  
 
 #### **Funcionalidades**  
- **Cálculo automático do IMC**  
- **Classificação do resultado** (de acordo com a OMS)  
- **Validação de campos** (não permite cálculo com dados vazios ou inválidos)  
- **Exibição do resultado de forma clara**  
+1. **Cálculo automático do IMC**  
+2. **Classificação do resultado** (de acordo com a OMS)  
+3. **Validação de campos** (não permite cálculo com dados vazios ou inválidos)  
+4. **Exibição do resultado de forma clara**  
 
 #### **Como usar**  
 1. Insira seu **nome**  
