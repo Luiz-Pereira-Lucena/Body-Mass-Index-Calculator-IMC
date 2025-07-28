@@ -1,31 +1,31 @@
 # Body-Mass-Index-Calculator-IMC
 
-### **?? Calculadora de IMC (Õndice de Massa Corporal)**  
-Um projeto simples, porÈm funcional, que calcula o IMC com base nos dados inseridos pelo usu·rio (nome, altura e peso) e exibe o resultado junto com a classificaÁ„o correspondente (abaixo do peso, peso ideal, obesidade, etc.).  
+### **Calculadora de IMC (√çndice de Massa Corporal)**  
+Um projeto simples, por√©m funcional, que calcula o IMC com base nos dados inseridos pelo usu√°rio (nome, altura e peso) e exibe o resultado junto com a classifica√ß√£o correspondente (abaixo do peso, peso ideal, obesidade, etc.).  
 
-#### **?? Tecnologias utilizadas**  
-- **HTML** ? Estrutura do formul·rio  
-- **CSS** ? EstilizaÁ„o da p·gina (opcional, se aplic·vel)  
-- **JavaScript** ? LÛgica de c·lculo e exibiÁ„o do resultado  
+#### **Tecnologias utilizadas**  
+- **HTML** ? Estrutura do formul√°rio  
+- **CSS** ? Estiliza√ß√£o da p√°gina (opcional, se aplic√°vel)  
+- **JavaScript** ? L√≥gica de c√°lculo e exibi√ß√£o do resultado  
 
-#### **? Funcionalidades**  
-? **C·lculo autom·tico do IMC**  
-? **ClassificaÁ„o do resultado** (de acordo com a OMS)  
-? **ValidaÁ„o de campos** (n„o permite c·lculo com dados vazios ou inv·lidos)  
-? **ExibiÁ„o do resultado de forma clara**  
+#### **Funcionalidades**  
+ **C√°lculo autom√°tico do IMC**  
+ **Classifica√ß√£o do resultado** (de acordo com a OMS)  
+ **Valida√ß√£o de campos** (n√£o permite c√°lculo com dados vazios ou inv√°lidos)  
+ **Exibi√ß√£o do resultado de forma clara**  
 
-#### **?? Como usar**  
+#### **Como usar**  
 1. Insira seu **nome**  
 2. Informe sua **altura** (em metros, ex: `1.75`)  
 3. Informe seu **peso** (em kg, ex: `70`)  
-4. Clique em **"Calcular"** para ver seu IMC e a classificaÁ„o  
+4. Clique em **"Calcular"** para ver seu IMC e a classifica√ß√£o  
 
-#### **?? Objetivo do Projeto**  
+#### **Objetivo do Projeto**  
 - Praticar **JavaScript** puro (DOM, eventos e condicionais)  
-- Criar uma ferramenta ˙til para verificaÁ„o b·sica de sa˙de  
+- Criar uma ferramenta √∫til para verifica√ß√£o b√°sica de sa√∫de  
 - Aprender a estruturar um projeto simples do zero  
 
-### **?? ObservaÁıes extras (se quiser incluir)**  
-- *"Os resultados s„o baseados em padrıes da OMS, mas n„o substituem uma avaliaÁ„o mÈdica profissional."*  
+### **Observa√ß√µes extras (se quiser incluir)**  
+- *"Os resultados s√£o baseados em padr√µes da OMS, mas n√£o substituem uma avalia√ß√£o m√©dica profissional."*  
 - *"Projeto feito para fins educativos."*  
 
